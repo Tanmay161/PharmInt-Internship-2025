@@ -1,5 +1,5 @@
 # Overview
-During the course of this externship with Pharmint Pte Ltd., I worked on creating a model to predict **survival rates** based on **gene expression data** on breast cancer patients. 
+During the course of this internship with Pharmint Pte Ltd., I worked on creating a model to predict **survival rates** based on **gene expression data** on breast cancer patients. 
 I used tools such as scikit-survival (Constructing models), pandas (Data preprocessing / handling), numpy (Transformations), and seaborn (Data visualization)
 
 # Data
